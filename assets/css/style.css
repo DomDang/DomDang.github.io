@@ -518,6 +518,21 @@ a:active {
   margin-bottom: 10px;
 }
 
+
+.more {
+  line-height: 10px;
+  display: block;
+  text-decoration: underline;
+  font-size: 16px;
+  font-weight: 600;
+  /*outline: none; */
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #050d18;
+  margin: 5px;
+}
+
+
 .resume .social-links a:hover {
   background: #4d6d9a;
   color: #fff;
